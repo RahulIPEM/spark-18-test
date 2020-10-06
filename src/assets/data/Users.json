@@ -1,0 +1,64 @@
+[{
+        "country": "Portugal",
+        "view": false,
+        "users": [{
+                "name": "Rahul",
+                "selected": false
+            },
+            {
+                "name": "Sushil",
+                "selected": false
+            },
+            {
+                "name": "Rajesh",
+                "selected": false
+            },
+            {
+                "name": "Nitesh",
+                "selected": false
+            }
+        ]
+    },
+    {
+        "country": "Nicaragua",
+        "view": false,
+        "users": [{
+                "name": "Rahul",
+                "selected": false
+            },
+            {
+                "name": "Sushil",
+                "selected": false
+            },
+            {
+                "name": "Rajesh",
+                "selected": false
+            },
+            {
+                "name": "Nitesh",
+                "selected": false
+            }
+        ]
+    },
+    {
+        "country": "Marshall Islands",
+        "view": false,
+        "users": [{
+                "name": "Rahul",
+                "selected": false
+            },
+            {
+                "name": "Sushil",
+                "selected": false
+            },
+            {
+                "name": "Rajesh",
+                "selected": false
+            },
+            {
+                "name": "Nitesh",
+                "selected": false
+            }
+        ]
+    }
+]

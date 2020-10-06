@@ -1,0 +1,44 @@
+body {
+    background: #7d3cc5 !important;
+}
+
+.main-div {
+    display: flex;
+    justify-content: center;
+}
+
+.left-div,
+.right-div {
+    height: 500px;
+    margin: 15px;
+}
+
+.card {
+    padding: 15px 20px 15px 20px;
+    height: 500px;
+    max-height: 500px;
+    overflow-y: scroll;
+    width: 350px;
+    margin: 0 auto;
+}
+
+ul {
+    list-style: none;
+    padding-inline-start: 0;
+}
+
+.user-selected {
+    text-decoration: overline;
+}
+.selected-user {
+    background: #dddddd;
+    padding: 10px;
+    margin: 10px 0 10px 0;
+    line-height: 2rem;
+}
+.close-icon {
+    float: right;
+    line-height: 2rem;
+    font-size: 18px;
+    color: #9e9e9e;
+}
